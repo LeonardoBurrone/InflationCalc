@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "2D02E47A1E0B4A5D006451C7"
-               BuildableName = "RNBaseProject-tvOS.app"
-               BlueprintName = "RNBaseProject-tvOS"
-               ReferencedContainer = "container:RNBaseProject.xcodeproj">
+               BuildableName = "InflationCalc-tvOS.app"
+               BlueprintName = "InflationCalc-tvOS"
+               ReferencedContainer = "container:InflationCalc.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "2D02E48F1E0B4A5D006451C7"
-               BuildableName = "RNBaseProject-tvOSTests.xctest"
-               BlueprintName = "RNBaseProject-tvOSTests"
-               ReferencedContainer = "container:RNBaseProject.xcodeproj">
+               BuildableName = "InflationCalc-tvOSTests.xctest"
+               BlueprintName = "InflationCalc-tvOSTests"
+               ReferencedContainer = "container:InflationCalc.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -55,9 +55,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "2D02E47A1E0B4A5D006451C7"
-            BuildableName = "RNBaseProject-tvOS.app"
-            BlueprintName = "RNBaseProject-tvOS"
-            ReferencedContainer = "container:RNBaseProject.xcodeproj">
+            BuildableName = "InflationCalc-tvOS.app"
+            BlueprintName = "InflationCalc-tvOS"
+            ReferencedContainer = "container:InflationCalc.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </LaunchAction>
@@ -72,9 +72,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "2D02E47A1E0B4A5D006451C7"
-            BuildableName = "RNBaseProject-tvOS.app"
-            BlueprintName = "RNBaseProject-tvOS"
-            ReferencedContainer = "container:RNBaseProject.xcodeproj">
+            BuildableName = "InflationCalc-tvOS.app"
+            BlueprintName = "InflationCalc-tvOS"
+            ReferencedContainer = "container:InflationCalc.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

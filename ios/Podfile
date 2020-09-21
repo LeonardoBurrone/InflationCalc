@@ -3,12 +3,12 @@ require_relative '../node_modules/@react-native-community/cli-platform-ios/nativ
 
 platform :ios, '10.0'
 
-target 'RNBaseProject' do
+target 'InflationCalc' do
   config = use_native_modules!
 
   use_react_native!(:path => config["reactNativePath"])
 
-  target 'RNBaseProjectTests' do
+  target 'InflationCalcTests' do
     inherit! :complete
     # Pods for testing
   end
@@ -23,10 +23,10 @@ target 'RNBaseProject' do
   end
 end
 
-target 'RNBaseProject-tvOS' do
-  # Pods for RNBaseProject-tvOS
+target 'InflationCalc-tvOS' do
+  # Pods for InflationCalc-tvOS
 
-  target 'RNBaseProject-tvOSTests' do
+  target 'InflationCalc-tvOSTests' do
     inherit! :search_paths
     # Pods for testing
   end
