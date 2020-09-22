@@ -2,6 +2,8 @@ require_relative '../node_modules/react-native/scripts/react_native_pods'
 require_relative '../node_modules/@react-native-community/cli-platform-ios/native_modules'
 
 platform :ios, '10.0'
+# TODO: remove em CDN problem is fixed: https://github.com/CocoaPods/CocoaPods/issues/10078
+source 'https://github.com/CocoaPods/Specs.git'
 
 target 'InflationCalc' do
   config = use_native_modules!
